@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+p {
+  background-color: lightgray;
+  margin: 100px 50px;
+}
+
+.opposite {
+  background-color: #333;
+  color: whitesmoke;
+  margin-top: 100px;
+  padding: 4rem;
+  display: inline-block;
+}
